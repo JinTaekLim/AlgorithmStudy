@@ -1,4 +1,4 @@
-package week1.day5;
+package week2.day2;
 
 public class ex {
 }

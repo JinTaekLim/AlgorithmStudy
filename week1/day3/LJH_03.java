@@ -11,3 +11,5 @@ public class LJH_03 {
         }
     }
 }
+
+// package week1.day3; 를 작성해주세요!

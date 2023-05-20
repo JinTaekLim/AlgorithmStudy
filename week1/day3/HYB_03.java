@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Solution {
+public class HYB_03 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String str = sc.next();
@@ -11,3 +11,5 @@ public class Solution {
         }
     }
 }
+
+// package week1.day3; 를 작성해주세요!
