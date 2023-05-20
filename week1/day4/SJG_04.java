@@ -20,3 +20,5 @@ public class SJG_04 {
         System.out.println(arr);
     }
 }
+
+// 아스키 코드를 이용하여 대문자와 소문자 차이 32 적용하신거 좋은 것 같습니다.

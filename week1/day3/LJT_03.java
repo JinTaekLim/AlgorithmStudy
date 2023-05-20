@@ -19,3 +19,5 @@ public class LJT_03 {
         else return;
     }
 }
+
+// 제한사항 지키신 점도 좋고 깔끔하게 작성하셨네요!
