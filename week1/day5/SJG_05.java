@@ -5,3 +5,5 @@ public class SJG_05 {
         System.out.println("!@#$%^&*(\\\'\"<>?:;");
     }
 }
+
+// 깔끔합니다~!

@@ -13,3 +13,5 @@ public class LJT_01 {
         else return;
     }
 }
+
+// 제한사항 적용하신 점 좋아요~!

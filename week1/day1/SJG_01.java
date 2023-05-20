@@ -10,3 +10,5 @@ public class SJG_01 {
         System.out.println(a);
     }
 }
+
+// 깔끔하네요,,!

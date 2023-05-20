@@ -10,3 +10,5 @@ public class SJG_02 {
         System.out.printf("a =" + a+"\nb ="+b);
     }
 }
+
+// \n 을 잊고 있었네요..! 굿

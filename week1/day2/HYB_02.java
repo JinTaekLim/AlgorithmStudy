@@ -10,3 +10,5 @@ public class HYB_02 {
         System.out.println("b = "+b);
     }
 }
+
+// package week1.day2; 로 변경해주세요!
