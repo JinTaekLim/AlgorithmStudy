@@ -1,14 +1,14 @@
+package week1.day2;
 import java.util.Scanner;
 
-public class HYB_02 {
+public class SJG_02 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int a = sc.nextInt();
         int b = sc.nextInt();
 
-        System.out.println("a = "+a);
-        System.out.println("b = "+b);
+        System.out.printf("a =" + a+"\nb ="+b);
     }
 }
 
-// package week1.day2; 로 변경해주세요!
+// \n 을 잊고 있었네요..! 굿

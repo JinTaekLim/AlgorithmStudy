@@ -1,5 +1,5 @@
 package study_01_01;
-// 승현 : package week1.day1; 로 변경해주세요!
+
 import java.util.Scanner;
 
 public class LJH_01 {
@@ -10,3 +10,5 @@ public class LJH_01 {
         System.out.println(a);
     }
 }
+
+// package week1.day1; 로 변경해주세요!
