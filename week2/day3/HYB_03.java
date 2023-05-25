@@ -1,4 +1,4 @@
-package week2.day1;
+package week2.day3;
 import java.util.Scanner;
 
 public class HYB_03 {
