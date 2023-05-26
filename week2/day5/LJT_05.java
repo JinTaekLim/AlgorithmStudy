@@ -1,0 +1,11 @@
+package week2.day5;
+public class LJT_05 {
+    public String solution(String my_string, String overwrite_string, int s) {
+        String answer = "";
+        int mL = my_string.length();
+        int oL = overwrite_string.length();
+        answer = my_string.substring(0,s)+overwrite_string.substring(0,oL)+my_string.substring(s+oL,mL);
+
+        return answer;
+    }
+}
