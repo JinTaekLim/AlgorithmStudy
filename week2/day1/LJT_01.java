@@ -16,3 +16,4 @@ public class LJT_01 {
         System.out.println(a + b);
     }
 }
+// 고생하셨어요~

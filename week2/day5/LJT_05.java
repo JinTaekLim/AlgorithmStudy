@@ -9,3 +9,5 @@ public class LJT_05 {
         return answer;
     }
 }
+
+// overwrite_string 을 substring 을 처음부터 끝까지 한다면 그냥 overwrite_string 을 더하는 것도 좋을 것 같아요~

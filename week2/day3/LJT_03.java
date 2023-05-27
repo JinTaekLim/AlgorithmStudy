@@ -9,3 +9,4 @@ public class LJT_03 {
         for(int i=0; i<a.length(); i++) System.out.println(a.charAt(i));
     }
 }
+// 알아보기 쉽고 깔끔하네요!

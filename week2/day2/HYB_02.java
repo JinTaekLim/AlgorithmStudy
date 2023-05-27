@@ -9,3 +9,4 @@ public class HYB_02 {
         System.out.print(a+b);
     }
 }
+// 깔끔하네요 ^_ '
