@@ -5,6 +5,6 @@ public class LSH_02 {
         Scanner sc = new Scanner(System.in);
         String a = sc.next();
         String b = sc.next();
-        System.out.println((a + b).trim());
+        System.out.println((a + b). trim());                // trim() 새로운 코드 알아갑니다,,감사합니다
     }
 }

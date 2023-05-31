@@ -14,3 +14,4 @@ public class LJT_02 {
         System.out.print(b);
     }
 }
+// 깔끔하네요 ^_ '

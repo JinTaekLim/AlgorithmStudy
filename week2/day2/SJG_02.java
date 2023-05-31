@@ -11,3 +11,4 @@ public class SJG_02 {
         System.out.println(a+b);
     }
 }
+// 깔끔하네요 ^_ '

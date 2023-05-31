@@ -10,3 +10,5 @@ class SJG_05 {
         return answer;
     }
 }
+
+// 제한사항을 준수하신 점 좋아요~ 만약에 if 문의 결과가 false 일 경우를 대비해서 try-catch 문을 할용하는 것도 좋을 것 같습니다!

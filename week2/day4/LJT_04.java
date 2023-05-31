@@ -10,3 +10,4 @@ public class LJT_04 {
         else System.out.print(n+" is odd");
     }
 }
+// 알아보기 쉬워서 좋아요

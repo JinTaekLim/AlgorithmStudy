@@ -10,3 +10,5 @@ public class HYB_01 {
         System.out.println(a+" + " + b+" = "+(a+b));
     }
 }
+
+// 고생하셨어요~

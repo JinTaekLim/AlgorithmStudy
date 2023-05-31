@@ -12,3 +12,5 @@ public class HYB_04 {
             System.out.print(n+" is odd");
     }
 }
+
+// 알아보기 쉬워서 좋아요

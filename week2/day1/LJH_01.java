@@ -11,3 +11,5 @@ public class LJH_01 {
         System.out.println(a + " + " + b + " = " + c);
     }
 }
+
+// 고생하셨어요~

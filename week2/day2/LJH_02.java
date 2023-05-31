@@ -11,3 +11,4 @@ public class LJH_02 {
         System.out.println(c. replace(" " , ""));
     }
 }
+// 깔끔하네요 ^_ '
