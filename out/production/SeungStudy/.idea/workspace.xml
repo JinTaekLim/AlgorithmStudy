@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="f46eb120-89b9-4cc2-a0fb-af0c64d26456" name="변경" comment="">
-      <change beforePath="$PROJECT_DIR$/out/production/SeungStudy/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SeungStudy/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SeungStudy/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SeungStudy/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SeungStudy/week2/day5/HYB_05.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SeungStudy/week2/day5/HYB_05.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week3/day2/LJT_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/week3/day2/LJT_02.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +38,11 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -62,7 +68,8 @@
       <option name="presentableId" value="Default" />
       <updated>1685497976281</updated>
       <workItem from="1685497979130" duration="283000" />
-      <workItem from="1685498282850" duration="17000" />
+      <workItem from="1685498282850" duration="4268000" />
+      <workItem from="1685594016108" duration="774000" />
     </task>
     <servers />
   </component>
