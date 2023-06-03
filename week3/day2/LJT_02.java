@@ -28,3 +28,5 @@ public class LJT_02 {
         System.out.print(p.solution(a));
     }
 }
+
+// 깔끔하니 좋아요

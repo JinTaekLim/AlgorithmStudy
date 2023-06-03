@@ -13,3 +13,5 @@ public class HYB_01 {
         return answer;
     }
 }
+
+// 완전 깔끔하네요,,

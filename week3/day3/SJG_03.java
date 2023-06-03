@@ -9,3 +9,5 @@ class SJG_03 {
         return sb.toString();
     }
 }
+
+// 오 저랑 코드가 비슷하네요 sb를 바로 toString 하는게 더 깔끔하네요..!

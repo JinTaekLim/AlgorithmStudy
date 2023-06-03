@@ -11,3 +11,5 @@ class SJG_02 {
         return answer;
     }
 }
+
+// 깔끔하고 좋아요~

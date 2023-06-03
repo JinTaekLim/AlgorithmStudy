@@ -18,3 +18,5 @@ public class HYB_04 {
         return answer;
     }
 }
+
+// 가독성이 가장 좋은 것 같아요
