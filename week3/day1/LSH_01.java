@@ -13,3 +13,5 @@ public class LSH_01 {
     }
 
 }
+
+// concat 를 사용하는 방법도 있었네요..!

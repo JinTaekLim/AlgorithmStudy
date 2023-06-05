@@ -13,3 +13,6 @@ public class LSH_02 {
     }
 
 }
+
+
+// StringBuilder , for(String s : arr) 오늘도 잘 배워갑니다 . 
