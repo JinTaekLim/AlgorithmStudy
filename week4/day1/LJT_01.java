@@ -5,6 +5,8 @@ class Solution {
         int answer = 0;
 
         if(num<2 && num > 100 && n<2 && n>9) return 2;
+        // 왜 2를 return하신거죠..?! 반환 값이 조건과 맞지 않아서 수정이 필요 할 것 같아요!
+        //처음에 answer을 0으로 지정했기 때문에 이 줄을 지워도 통과는 되네요! 결과에 아무런 영향을 안 끼치고 있어요 ㅠㅠ..
 
         if(num%n == 0) answer = 1;
 
@@ -12,7 +14,7 @@ class Solution {
         return answer;
     }
 }
-
+//
 
 /*
 public class LJT_01 {
