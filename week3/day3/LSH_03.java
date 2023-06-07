@@ -13,3 +13,4 @@ public class LSH_03 {
 }
 
 // 효율적이고 좋은 것 같아요!
+//StringBuilder 쓰는게 편하고 조은것같아욤
