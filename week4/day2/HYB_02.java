@@ -12,3 +12,5 @@ public class HYB_02 {
 
     }
 }
+
+// int answer = 0; 빼도 좋을 것 같아요
