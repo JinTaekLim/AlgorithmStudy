@@ -15,4 +15,6 @@ public class LSH_02 {
 }
 
 
-// StringBuilder , for(String s : arr) 오늘도 잘 배워갑니다 . 
+
+// StringBuilder , for(String s : arr) 오늘도 잘 배워갑니다 .
+// 휴 처음 보는 StringBuilder.. 공부 더 해야겠네욥 저는

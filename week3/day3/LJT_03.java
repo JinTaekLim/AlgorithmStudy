@@ -22,6 +22,8 @@ class Solution {
 }
 
 
+//A가 대문자인 이유 궁금해영!! 코드 읽기 편하고 좋네용!!!
+
 /*
 public class LJT_03 {
     public static void main(String[] args) {
