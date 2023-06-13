@@ -47,3 +47,5 @@ public class test {
 
     }
 }
+
+//answer 의 공백 여부를 판단하는 것은 isEmpty 또는 equals 를 사용하는 것이 어떤가요
