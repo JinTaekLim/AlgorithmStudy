@@ -12,3 +12,5 @@ public class HYB_05 {
         return answer;
     }
 }
+
+//if문 조건에 flag 만 작성하셔도 == true 랑 같은 의미일 것 같습니다!

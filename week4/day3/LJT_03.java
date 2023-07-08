@@ -17,6 +17,8 @@ class Solution {
     }
 }
 
+//변수명은 소문자로 작성하는 것이 좋을 것 같아요!
+
 /*
 public class LJT_03 {
     public static void main(String[] args) {

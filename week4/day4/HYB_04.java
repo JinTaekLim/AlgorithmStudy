@@ -35,3 +35,5 @@ public class HYB_04 {
         return answer;
     }
 }
+
+// 가독성이 정말 좋아요!
