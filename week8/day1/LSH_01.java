@@ -14,7 +14,9 @@ public class LSH_01 {
                 numList.add(n);
             }
         }
-        int[] answer = numList.stream().mapToInt(i -> i).toArray();
+        int[] answer = numList.stream()
+                               .mapToInt(i -> i)
+                               .toArray();
         return answer;
     }
 }
