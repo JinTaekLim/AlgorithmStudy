@@ -15,18 +15,14 @@ public class LJH_03 {
         public String solution(String my_string, int s, int e) {
             String answer = "";
             String rev = "";
-            String sec1 = "";
-            String sec2 = "";
-            String sec3 = "";
+            String sec = "";
 
-            sec1 = my_string.substring(0, s);
-            sec2 = my_string.substring(s, e + 1);
-            sec3 = my_string.substring(e + 1, my_string.length());
+            sec = my_string.substring(s, e + 1);
 
-            for (int i = sec2.length() - 1; i >= 0; i--) {
-                rev += sec2.charAt(i);
+            for (int i = sec.length() - 1; i >= 0; i--) {
+                rev += sec.charAt(i);
             }
-            answer = sec1 + rev + sec3;
+            answer = my_string.substring(0, s) + rev + my_string.substring(e + 1, my_string.length());
             return answer;
         }
     }
