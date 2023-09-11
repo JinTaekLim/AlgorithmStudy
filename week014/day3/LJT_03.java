@@ -1,21 +1,14 @@
+package week014.day3;
+
 import java.util.*;
 
 class Solution {
-    public int[] solution(int n, int k) {
+    public int[] solution(int start, int end_num) {
+        int[] answer = new int[start-end_num+1];
 
-        int[] answer = new int[n/k];
-
-
-        for(int i=1,j =0; i<=n; i++){
-            if(i%k==0){
-                answer[j] = i;
-                j++;
-            }
+        for(int i=start,j=0;i>=end_num;i--,j++){
+            answer[j] = i;
         }
-
-        Arrays.sort(answer);
-
-
         return answer;
     }
 }
@@ -26,6 +19,8 @@ public class Main {
 
         Solution p = new Solution();
 
+
+        int[] a = {1,16,6,15,0,10,11,3};
 
         //System.out.println("\n"+p.solution(10,3));
 
